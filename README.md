@@ -49,7 +49,7 @@
 |----------------------------------|--------------------------------|-----------------|
 | Systems Technician               | SENA                          | 2016 - 2021     |
 | Computer Engineering             | Autonomous University of West | 2022 - Present  |
-| Graphic Design                   | Autonomous University of West | 2022 - Present  |
+| Graphic Design                   | Autonomous University of West | 2023 - Present  |
 | Full Stack JavaScript            | The Odin Project              | 2021           |
 
 ---
@@ -57,7 +57,7 @@
 ### 📬 Let's Build Something Amazing!
 
 <div align="center">
-  <a href="https://https://sebastianmsz.vercel.app/" target="_blank">
+  <a href="https://sebastianmsz.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Visit_My_Portfolio-44F5F7?style=for-the-badge&logo=react&logoColor=white&labelColor=0d1117" alt="Portfolio" height="45">
   </a>
   <br>
