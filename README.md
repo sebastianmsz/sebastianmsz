@@ -1,8 +1,8 @@
-<div align="center" style="weight=100%">
+<div align="center">
 
-![Wave Animation](https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header)
+![Wave Animation](https://capsule-render.vercel.app/api?type=waving&color=6381af&height=120&section=header)
 
-![Typing Animation](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=32&duration=4000&pause=1000&color=6381af&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Sebastian;Web+Developer;Graphic+Designer)
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=32&duration=4000&pause=1000&color=6381af&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Sebastian;CEO+at+MOL-STUDIO;Web+Developer;Graphic+Designer)
 
 </div>
 
@@ -25,12 +25,13 @@
 
 ## 👾 About Me
 
-Hi! I'm **Sebastian** (sebastianmsz), a passionate **Web Developer** and **Graphic Designer** from Colombia. I'm currently studying **Graphic Design** at the Autonomous University of the West and working as a **freelancer**, blending creativity and technology in every project. I love experimenting with new tools and approaches, and right now I'm building a new portfolio with 3D elements to take my ideas to the next level.
+Hi! I'm **Sebastian** (sebastianmsz), a passionate **Web Developer** and **Graphic Designer** from Cali, Colombia. I'm the founder of **MOL-STUDIO**, where I blend creativity and technology to build unique digital experiences. Currently, I'm finishing my **Graphic Design** degree (8.5 semester) at UAO, specializing in UI/UX and 3D integration.
 
-- 🔭 Currently working as a freelancer and developing my personal portfolio with **3D** integration.
-- 🌱 Always learning more about **Node.js**, **TypeScript**, and **UX/UI** best practices.
-- 💬 If you have questions about **JavaScript**, **React**, **Figma**, or **Adobe Creative Suite**, feel free to reach out!
-- ⚡ Fun fact: I enjoy mixing design and code, whether it's prototyping in Figma or building interactive interfaces in Next.js.
+- 🚀 Founder & Lead Designer at **MOL-STUDIO**.
+- 🎓 Final year Graphic Design student at **Universidad Autónoma de Occidente (UAO)**.
+- 🌱 Currently exploring advanced **Three.js** and **OpenClaw** for intelligent automation.
+- 💬 Ask me about **Next.js**, **Figma**, **3D Modeling**, or how I built my own AI assistant (**Clana** 🌸).
+- 🎸 Fun fact: When I'm not coding or designing, you'll find me playing my guitar.
 
 ---
 
@@ -58,34 +59,30 @@ Hi! I'm **Sebastian** (sebastianmsz), a passionate **Web Developer** and **Graph
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" alt="Sass"/>
-  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" alt="npm"/>
+  <img src="https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white&style=for-the-badge" alt="Three.js"/>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/>
 </p>
 
-### **Design**
+### **Design & 3D**
 
 <p>
   <img src="https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=for-the-badge" alt="Photoshop"/>
   <img src="https://img.shields.io/badge/-Illustrator-FF9A00?logo=adobeillustrator&logoColor=white&style=for-the-badge" alt="Illustrator"/>
-  <img src="https://img.shields.io/badge/Adobe_InDesign-FF3366?logo=adobeindesign&logoColor=white&style=for-the-badge" alt="InDesign"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" alt="Figma"/>
   <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&style=for-the-badge" alt="Blender"/>
   <img src="https://img.shields.io/badge/3ds_Max-00A9E0?logo=3dsmax&logoColor=white&style=for-the-badge" alt="3ds Max"/>
-  <img src="https://img.shields.io/badge/Adobe_After_Effects-9999FF?logo=adobeaftereffects&logoColor=white&style=for-the-badge" alt="After Effects"/>
+  <img src="https://img.shields.io/badge/After_Effects-9999FF?logo=adobeaftereffects&logoColor=white&style=for-the-badge" alt="After Effects"/>
 </p>
 
 ---
 
-## 🎓 Education & Certifications
+## 🎓 Education
 
-| Program / Certification   | Institution                         | Duration            |
+| Program                   | Institution                         | Status              |
 | ------------------------- | ----------------------------------- | ------------------- |
-| **Systems Technician**    | National Learning Service SENA      | Jan 2016 – Dec 2021 |
-| **Full Stack JavaScript** | The Odin Project                    | Jan 2021 – Dec 2021 |
-| **Computer Engineering**  | Autonomous University of West (UAO) | Jan 2022 – Dec 2022 |
-| **Graphic Design**        | Autonomous University of West (UAO) | Jan 2023 – Dec 2026 |
+| **Graphic Design**        | Autonomous University of West (UAO) | 8.5 Semester (Final Year) |
+| **Full Stack JavaScript** | The Odin Project                    | Completed           |
+| **Systems Technician**    | National Learning Service SENA      | Completed           |
 
 ---
 
@@ -101,14 +98,11 @@ Hi! I'm **Sebastian** (sebastianmsz), a passionate **Web Developer** and **Graph
   <a href="https://github.com/sebastianmsz" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-6381af?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub Badge"/>
   </a>
-  <a href="https://sebastianmsz.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-6381af?style=for-the-badge&logo=react&logoColor=white&labelColor=0d1117" alt="Portfolio Badge"/>
-  </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sebastianmsz&label=Last+Updated:+2025-06-03&color=6381af&style=flat-square"  alt="Profile Views Counter"/>
-  <img src="https://img.shields.io/github/last-commit/sebastianmsz/sebastianmsz?label=Last+Commit&style=social" alt="Last Commit"/>
+  <img src="https://komarev.com/ghpvc/?username=sebastianmsz&label=Profile+Views&color=6381af&style=flat-square"  alt="Profile Views Counter"/>
+  <img src="https://img.shields.io/github/last-commit/sebastianmsz/sebastianmsz?label=Last+Update&color=6381af&style=flat-square" alt="Last Commit"/>
 </p>
